@@ -1,4 +1,4 @@
-# theme_change
+# Theme changer using Provider and SharedPreference
 
 A new Flutter project.
 
